@@ -11,3 +11,5 @@ Yes, please!
 And feel free to submit ideas to make them even better. 
 Just make sure to give proper credit and blame back to the source :)
 
+### License
+All content is available under an MIT License
